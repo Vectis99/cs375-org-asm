@@ -1,0 +1,12 @@
+Lab 4 Miscellany
+
+1. You must have a newline after an .include "something.asm" statement (press
+enter after the line). Otherwise, you will get build errors.
+
+2. In order to get enough power to the LCD, the power jumper on the
+programmer must be set to 5V.
+
+3. To the left of the LCD, near the reset button, there is a
+potentiometer which controls the LCD's brightness.  If you aren't seeing
+anything on the display and you have the power set correctly, try adjusting
+this potentiometer.
